@@ -13,4 +13,4 @@ Correctly repeat a longer and longer sequence of signals.
 
 4. Continue playing as long as you can repeat each sequence of signals correctly.
 
-5. If you fail to repeat a sequence exactly, Simon responds with a "RAZZ" sound. This means you've lost, and the sequence of signals ends. You can press any key to restart
+5. If you fail to repeat a sequence exactly, Simon responds with a sound and the screen will flash red. This means you've lost, and the sequence of signals ends. You can press any key to restart
